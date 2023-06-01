@@ -5,3 +5,5 @@ def hiThere():
 
 def myFunction():
     print ("Hi")
+
+print ("Hi")
