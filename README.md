@@ -1,4 +1,6 @@
 # My Git Project
+# My Git Project
+
 
 > My code for the git project
 
@@ -6,4 +8,5 @@
 
 ## Added to master
 
+## Added to master again
 ## Added to master again
